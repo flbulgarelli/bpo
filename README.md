@@ -34,9 +34,15 @@
 ### Digital Surveillance
 
  * [Vigilância e segurança pública: preconceitos e segregação social ampliados pela suposta neutralidade digital](https://revistas.uepg.br/index.php/emancipacao/article/view/14258/209209213653)
- * https://descargas.vialibre.org.ar/libros/lavits/Lavits2016_BsAs_Libro.pdf
+ * 📘 [¿Nuevos Paradigmas De La Vigilancia?. Miradas Desde América Latina](https://descargas.vialibre.org.ar/libros/lavits/Lavits2016_BsAs_Libro.pdf)
  * https://www.amnesty.org/es/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/
-
+ * 🗞️ [5 claves para entender el escándalo de Cambridge Analytica que hizo que Facebook perdiera US$37.000 millones en un día](https://www.bbc.com/mundo/noticias-43472797)
+ * Predicción Automática De Embarazos Adolescentes en Salta:
+    * https://liaa.dc.uba.ar/es/sobre-la-prediccion-automatica-de-embarazos-adolescentes/
+    * 🗞️ https://www.wired.com/story/argentina-algoritmo-embarazada-prediccion/
+    * 🗞️ [La inteligencia que no piensa](https://www.pagina12.com.ar/109080-la-inteligencia-que-no-piensa)
+  * https://amnistia.org.ar/covid-19-vigilancia-y-amenaza-para-tus-derechos/
+  * 📘 [Tecnopolíticas Da Vigilância Perspectivas Da Margem](https://www.researchgate.net/profile/Lucas-Melgaco-2/publication/329444654_Tecnopoliticas_da_Vigilancia_Perspectivas_da_Margem/links/5f68fc78299bf1b53ee96f86/Tecnopoliticas-da-Vigilancia-Perspectivas-da-Margem.pdf)
 
 ### Racismo | Racism
 
@@ -64,30 +70,38 @@
 
 ### Ciberguerra | Cyberwarfare
 
- * 🗞️ https://www.ocafezinho.com/2024/04/01/nova-atualizacao-do-instagram-pode-calar-vozes-palestinas/
  * 🔬 https://www.researchgate.net/publication/366790665_Digital_War_Mediatised_Conflicts_in_Sociological_Perspective_in_Oxford_Handbooks_Online
+ * 🗞️ https://www.ocafezinho.com/2024/04/01/nova-atualizacao-do-instagram-pode-calar-vozes-palestinas/
  * 🗞️ https://www.correiobraziliense.com.br/mundo/2023/12/6773745-ong-human-rights-watch-acusa-meta-de-silenciar-vozes-pro-palestinas.html
  * 🗞️ https://time.com/6960587/meta-instagram-political-content-limit-off-setting-default/
  * 🗞️ https://www.clarin.com/tecnologia/instagram-escondera-publicaciones-politicas-evitar-afecte-cuenta_0_f6K6eLG9io.html
+ * 🗞️ https://expansion.mx/tecnologia/2023/11/02/redes-sociales-nuevo-campo-de-batalla-guerra
+ * 🗞️ [Tecnopolítica de las redes sociales](https://legrandcontinent.eu/es/2022/06/29/tecno-politica-de-las-redes-sociales/)
 
 ### Racismo | Racism
 
  * Twitter Cropping Algorithm:
     * 🎞️ [¿Estamos automatizando el racismo? | Are We Automating Racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
     * 🗞️ [Twitter says its image-cropping algorithm was biased, so it’s ditching it ](https://edition.cnn.com/2021/05/19/tech/twitter-image-cropping-algorithm-bias/index.html)
+ * 💬 https://medium.com/bits-and-behavior/anti-black-racism-harms-us-all-b57dab6a4386
  * https://cajanegraeditora.com.ar/el-algoritmo-de-la-raza-notas-sobre-antirracismo-y-big-data/
- 3. https://medium.com/bits-and-behavior/anti-black-racism-harms-us-all-b57dab6a4386
 
 
 ### Feminismo
 
- * https://www.scielo.br/j/cpa/a/PttR6kk7CqF4ZTCxTzntMGB/
- * https://data-feminism.mitpress.mit.edu/bienvenida
- * https://academic.oup.com/dsh/article/36/Supplement_1/i89/5881575
- * https://code.likeagirl.io/5-ways-to-debug-the-patriarchy-as-a-feminist-software-engineer-7210b04accc1
- * https://spaceaustralia.com/opinions/programming-patriarchy-tech
- * https://patriciagestoso.com/2024/01/08/techno-patriarchy-how-ai-is-misogynys-new-clothes/
+ * 📘 [Feminismo de Datos | Data Feminism](https://data-feminism.mitpress.mit.edu/)
+ * 🔬 [Ciberfeminismos contemporáneos, entre usos y apropiaciones](https://www.scielo.br/j/cpa/a/PttR6kk7CqF4ZTCxTzntMGB/)
+ * 🔬 [Feminismo y Tecnología: Software Libre y Cultura Hacker Como Medio Para la Apropiación Tecnológica, Una Propuesta Hackfeminista](https://academic.oup.com/dsh/article/36/Supplement_1/i89/5881575)
+ * 💬 https://code.likeagirl.io/5-ways-to-debug-the-patriarchy-as-a-feminist-software-engineer-7210b04accc1
+ * 💬 https://spaceaustralia.com/opinions/programming-patriarchy-tech
+ * 💬 https://patriciagestoso.com/2024/01/08/techno-patriarchy-how-ai-is-misogynys-new-clothes/
+ * 🔬 https://ri.conicet.gov.ar/handle/11336/88838
+
+## Democracia | Democracy
+
+ * Voto Electrónico en Argentina:
+    * 💬 [Las mentiras sobre el voto electrónico](https://blog.smaldone.com.ar/2017/08/22/las-mentiras-sobre-el-voto-electronico/)
 
 ### Tecno-optimismo
 
- * https://nataliazuazo.com/2016/03/14/el-gobierno-del-tecno-optimismo/
+ * 💬 https://nataliazuazo.com/2016/03/14/el-gobierno-del-tecno-optimismo/
