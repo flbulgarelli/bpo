@@ -6,12 +6,13 @@
 
 ## Temas | Topics
 
-### Ética | Ethics
+### Ética y Responsabilidad | Ética e Responsabilidade |  Ethics and Accountability
 
- * Software engineering code of ethics:
-   * Ética y Software: Ian Sommerville
-   * [Software Engineering Code](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
- * [The Social Dilemma](https://www.thesocialdilemma.com/)
+ * 📘 Ética y Software: Ian Sommerville
+ * 📣 [Software Engineering Code](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
+ * 🎞️ [The Social Dilemma](https://www.thesocialdilemma.com/)
+ * 💬 [Software is Politics](https://www.fastcompany.com/3066631/software-is-politics)
+ * 🔬 [Designing for accountability](https://www.researchgate.net/publication/221248162_Designing_for_accountability)
 
 ### Extractivismo | Extrativismo | Extractivism
 
@@ -38,7 +39,7 @@
  * https://www.amnesty.org/es/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/
  * 🗞️ [5 claves para entender el escándalo de Cambridge Analytica que hizo que Facebook perdiera US$37.000 millones en un día](https://www.bbc.com/mundo/noticias-43472797)
  * Predicción Automática De Embarazos Adolescentes en Salta:
-    * https://liaa.dc.uba.ar/es/sobre-la-prediccion-automatica-de-embarazos-adolescentes/
+    * 📣 [Sobre la predicción automática de embarazos adolescentes](https://liaa.dc.uba.ar/es/sobre-la-prediccion-automatica-de-embarazos-adolescentes/)
     * 🗞️ https://www.wired.com/story/argentina-algoritmo-embarazada-prediccion/
     * 🗞️ [La inteligencia que no piensa](https://www.pagina12.com.ar/109080-la-inteligencia-que-no-piensa)
   * https://amnistia.org.ar/covid-19-vigilancia-y-amenaza-para-tus-derechos/
@@ -66,7 +67,7 @@
  * 🔬 [The Environmental Footprint of Bitcoin Mining Across the Globe: Call for Urgent Action](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003871)
  * 🔬 [Lower Energy Large Language Models (LLMs)](https://www.computer.org/csdl/magazine/co/2023/10/10255228/1QzyrTgKKEE)
  * [Generative AI’s Energy Problem Today Is Foundational](https://spectrum.ieee.org/ai-energy-consumption)
-
+ * https://www.sciencedirect.com/science/article/pii/S266665962200004X
 
 ### Ciberguerra | Cyberwarfare
 
@@ -75,7 +76,7 @@
  * 🗞️ https://www.correiobraziliense.com.br/mundo/2023/12/6773745-ong-human-rights-watch-acusa-meta-de-silenciar-vozes-pro-palestinas.html
  * 🗞️ https://time.com/6960587/meta-instagram-political-content-limit-off-setting-default/
  * 🗞️ https://www.clarin.com/tecnologia/instagram-escondera-publicaciones-politicas-evitar-afecte-cuenta_0_f6K6eLG9io.html
- * 🗞️ https://expansion.mx/tecnologia/2023/11/02/redes-sociales-nuevo-campo-de-batalla-guerra
+ * 🗞️ [Las redes sociales: un nuevo campo de batalla en la guerra](https://expansion.mx/tecnologia/2023/11/02/redes-sociales-nuevo-campo-de-batalla-guerra)
  * 🗞️ [Tecnopolítica de las redes sociales](https://legrandcontinent.eu/es/2022/06/29/tecno-politica-de-las-redes-sociales/)
 
 ### Racismo | Racism
@@ -83,8 +84,7 @@
  * Twitter Cropping Algorithm:
     * 🎞️ [¿Estamos automatizando el racismo? | Are We Automating Racism?](https://www.youtube.com/watch?v=Ok5sKLXqynQ)
     * 🗞️ [Twitter says its image-cropping algorithm was biased, so it’s ditching it ](https://edition.cnn.com/2021/05/19/tech/twitter-image-cropping-algorithm-bias/index.html)
- * 💬 https://medium.com/bits-and-behavior/anti-black-racism-harms-us-all-b57dab6a4386
- * https://cajanegraeditora.com.ar/el-algoritmo-de-la-raza-notas-sobre-antirracismo-y-big-data/
+ * 🗞️ [El algoritmo de la raza. Notas sobre antirracismo y big data](https://cajanegraeditora.com.ar/el-algoritmo-de-la-raza-notas-sobre-antirracismo-y-big-data/)
 
 
 ### Feminismo
@@ -92,15 +92,16 @@
  * 📘 [Feminismo de Datos | Data Feminism](https://data-feminism.mitpress.mit.edu/)
  * 🔬 [Ciberfeminismos contemporáneos, entre usos y apropiaciones](https://www.scielo.br/j/cpa/a/PttR6kk7CqF4ZTCxTzntMGB/)
  * 🔬 [Feminismo y Tecnología: Software Libre y Cultura Hacker Como Medio Para la Apropiación Tecnológica, Una Propuesta Hackfeminista](https://academic.oup.com/dsh/article/36/Supplement_1/i89/5881575)
+ * 🔬 [Masculinidades en la industria del software en Argentina](https://ri.conicet.gov.ar/handle/11336/88838)
  * 💬 https://code.likeagirl.io/5-ways-to-debug-the-patriarchy-as-a-feminist-software-engineer-7210b04accc1
  * 💬 https://spaceaustralia.com/opinions/programming-patriarchy-tech
  * 💬 https://patriciagestoso.com/2024/01/08/techno-patriarchy-how-ai-is-misogynys-new-clothes/
- * 🔬 https://ri.conicet.gov.ar/handle/11336/88838
 
 ## Democracia | Democracy
 
  * Voto Electrónico en Argentina:
     * 💬 [Las mentiras sobre el voto electrónico](https://blog.smaldone.com.ar/2017/08/22/las-mentiras-sobre-el-voto-electronico/)
+    * 📣 [Instituo de Ciencias de la Computación - Participación en el debate sobre el Voto Electrónico](https://icc.fcen.uba.ar/participacion-en-el-debate-sobre-el-voto-electronico/)
 
 ### Tecno-optimismo
 
