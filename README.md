@@ -106,3 +106,5 @@
 ### Tecno-optimismo
 
  * 💬 https://nataliazuazo.com/2016/03/14/el-gobierno-del-tecno-optimismo/
+ * 🗞️ https://www.tiempoar.com.ar/ta_article/la-app-de-salud-mental-de-connie-ansaldi-y-la-incapacidad-de-la-ia-de-reconocer-la-singularidad-de-los-sujetos/
+ 
